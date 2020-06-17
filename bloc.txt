@@ -1,0 +1,5 @@
+Git es una buena práctica para dar Calidad al Software
+Curso de Calidad del Software
+Verifcando diferencias
+
+Agregando cambio en bloc
